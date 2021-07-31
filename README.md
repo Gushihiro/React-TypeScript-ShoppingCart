@@ -1,6 +1,6 @@
 # React TypeScript Shopping Cart
 
-[Link To Deploy](https://github.com/Gushihiro/React-TypeScript-ShoppingCart)
+[Link To Deploy](https://gushihiro.github.io/React-TypeScript-ShoppingCart/)
 ![Preview Image](https://i.gyazo.com/a3e80b0779f371afe4aebbdff4f875ec.jpg)
 
 
